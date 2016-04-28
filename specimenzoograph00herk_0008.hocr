@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./specimenzoograph00herk_0008.png"; bbox 0 0 2457 3226; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 2452 3226">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 2452 3226">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 2452 3226; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 2452 3226; x_wconf 95' lang='lat' dir='ltr'><strong><em>   </em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1458 2572 2452 2625; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1062 2583 1464 2612">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1062 2583 1464 2612">
+     <span class='ocr_line' id='line_1_2' title="bbox 1062 2583 1464 2612; baseline -0.012 -4"><span class='ocrx_word' id='word_1_3' title='bbox 1062 2586 1098 2608; x_wconf 63' lang='lat' dir='ltr'><strong><em>Eu</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1109 2585 1262 2612; x_wconf 60' lang='grc' dir='ltr'><strong><em>πηοεν-μῆρα</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1274 2590 1298 2606; x_wconf 65' lang='grc' dir='ltr'><strong><em>Δ.</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1310 2589 1336 2605; x_wconf 76' lang='lat' dir='ltr'><strong><em>w.</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1350 2583 1464 2606; x_wconf 63' lang='lat' dir='ltr'>maon}</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
